@@ -3,7 +3,7 @@
 
 }
 
-.results {
+#results {
   display: none;
 }
 body{
@@ -13,9 +13,9 @@ body h1{
   font-size: 30px;
   font-weight: bold;
 }
-.results2{
+#results2{
   display: none;
 }
-.results3{
+#results3{
   display: none;
 }
