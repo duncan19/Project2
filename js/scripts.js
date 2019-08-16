@@ -4,7 +4,8 @@ $(document).ready(function() {
     var color =  parseInt($("#color").val());
     var pet =  parseInt($("#pet").val());
     var eye = parseInt($("#eye").val());
-if (area + color + pet + eye === 9) {
+    var day =  parseInt($("#day").val())
+if (area + color + pet + eye + day === 10) {
       // $(".area").text(area);
         $(".results").show();
 }
