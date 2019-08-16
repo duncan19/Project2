@@ -9,6 +9,12 @@ if (area + color + pet + eye + day === 10) {
       // $(".area").text(area);
         $(".results").show();
 }
+// if (area + color + pet + eye + day > 11{
+//   $(".results2").show();
+// }
+// if (area + color + pet + eye + day < 9){
+//   $(".results3").show();
+// }
 
     event.preventDefault();
   });
