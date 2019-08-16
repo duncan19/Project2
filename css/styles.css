@@ -19,3 +19,9 @@ body h1{
 #results3{
   display: none;
 }
+img{
+  width: 250px;
+  height: auto;
+  float: right;
+
+}
