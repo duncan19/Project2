@@ -6,3 +6,10 @@
 .results {
   display: none;
 }
+body{
+  background-color: green;
+}
+body h1{
+  text-decoration: underline;
+  font-size: 30px;
+}
