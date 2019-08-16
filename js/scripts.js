@@ -3,7 +3,8 @@ $(document).ready(function() {
     var area =  parseInt($("#area").val());
     var color =  parseInt($("#color").val());
     var pet =  parseInt($("#pet").val());
-if (area + color + pet=== 8) {
+    var eye = parseInt($("#eye").val());
+if (area + color + pet + eye === 9) {
       // $(".area").text(area);
         $(".results").show();
 }
