@@ -2,7 +2,8 @@ $(document).ready(function() {
   $(".questions").submit(function(event) {
     var area =  parseInt($("#area").val());
     var color =  parseInt($("#color").val());
-if (area + color === 3) {
+    var pet =  parseInt($("#pet").val());
+if (area + color + pet=== 8) {
       // $(".area").text(area);
         $(".results").show();
 }
