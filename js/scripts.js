@@ -6,7 +6,7 @@ $(document).ready(function() {
     var eye = parseInt($("#eye").val());
     var day =  parseInt($("#day").val())
 if (area + color + pet + eye + day === 10) {
-      // $(".area").text(area);
+
         $(".results").show();
 }
 // if (area + color + pet + eye + day > 11{

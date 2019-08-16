@@ -7,10 +7,11 @@
   display: none;
 }
 body{
-  background-color: green;
+  background-color: grey;
 }
 body h1{
   font-size: 30px;
+  font-weight: bold;
 }
 .results2{
   display: none;
